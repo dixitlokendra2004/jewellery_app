@@ -29,7 +29,7 @@
   <img src="https://github.com/user-attachments/assets/052534b1-cbce-45a1-8d96-995c7b5ee58e" width="250" style="margin-bottom: 20px;">
 </p>
 
-
+# Admin Output
 
 <img width="250" height="967" alt="Screenshot 2025-09-28 at 2 16 12 PM" src="https://github.com/user-attachments/assets/a86ae268-e9c5-452d-82a4-99f70a279b87" />
 <img width="250" height="962" alt="Screenshot 2025-09-28 at 2 15 05 PM" src="https://github.com/user-attachments/assets/e79d6124-a776-4e0e-902e-b483ab95aa79" />
